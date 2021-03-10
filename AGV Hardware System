@@ -1,0 +1,44 @@
+WEEK 2: AGV Hardware System
+
+Automated Guided Vehicle Weasel®, E-Commerce, Supply Chain, Hermes Fulfilment GmbH
+link: https://www.youtube.com/watch?v=WIlS3vNSuQ4
+
+
+  the AVG is Automated Guided Vehicle 
+ 
+
+Main components of the Robotic Hardware System
+Battery-
+Sudden Stop Switch-
+Drive-
+Magnetive navigation-
+Button-
+Sensor-
+Warning lamp-
+Power Switch-
+Touch Screen-
+Traction rod-
+
+#1 Physical Design for various applications
+
+dimension= l x w x h = 810mm x 420mm x 180mm 
+the AVG is Automated Guided Vehicle is mostly use in transport the item indoor. Easily reload and unload the product
+can transoprt item weight up to 35kg.
+
+#2 Lomocation System & Actuators
+
+#3 Navigation System (Sensors) & Control
+ by using line following sensor- the AVG is programmed to follow the line
+ Optical tracking
+ Sensor- stop when encounter something infront of AVG
+ 
+#4 Data Collection 
+ Visualization Fleet Controller- Software- can programmed the route of every AVG
+ 
+#5 Data transmission 
+
+#6 Power Management
+power supply 24V
+Charging time 8 hour
+Operating time up to 16 hr
+ Ground Charging station- AVG can operate up to 12 hr with one battery charge.
